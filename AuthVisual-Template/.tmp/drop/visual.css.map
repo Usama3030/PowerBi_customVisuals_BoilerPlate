@@ -1,0 +1,1 @@
+{"version":3,"file":"visual.css","mappings":"AAAA;AACA;AACA","sources":["webpack:///./src/tailwind.css"],"sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n"],"names":[],"sourceRoot":""}
